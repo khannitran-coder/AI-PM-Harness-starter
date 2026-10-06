@@ -1,0 +1,5 @@
+SYNTHETIC SECURITY TEST DATA - NOT REAL
+Contact: Nguyen Minh Anh <minh.anh@example.test>
+Phone: +84 912 345 678
+Account: 9704 1234 5678 9012
+Demo API key: sk_demo_not_real_ABC123XYZ
