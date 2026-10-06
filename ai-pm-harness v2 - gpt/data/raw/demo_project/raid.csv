@@ -1,0 +1,8 @@
+record_id,type,title,description,impact,probability,owner,status,evidence_id
+R-001,Risk,API bank approval delay,"Bank partner has not confirmed the final approval date for production API access.",High,Medium,Hoang Bao Tram,Open,E-001
+R-002,Risk,Vendor test environment instability,"Vendor test environment has failed twice during the last integration window.",Medium,Medium,Pham Duc Long,Open,E-002
+R-003,Risk,Merchant UAT bandwidth,"Two pilot merchants may have limited availability during the planned UAT week.",Medium,Medium,Le Thu Ha,Open,E-003
+I-001,Issue,Webhook retry defect,"Payment webhook retries can create duplicate callback events in the current build.",High,High,Pham Duc Long,Open,E-004
+I-002,Issue,Requirement ambiguity,"Refund handling for partial settlement is not yet fully agreed between Product and Finance.",High,Medium,Le Thu Ha,Open,E-005
+D-001,Dependency,Compliance baseline approval,"Go-live depends on signed Compliance Baseline v1.",High,High,Hoang Bao Tram,Open,E-006
+D-002,Dependency,Custody provider readiness,"Production custody integration depends on provider sandbox certification.",High,Medium,Pham Duc Long,Open,E-007
