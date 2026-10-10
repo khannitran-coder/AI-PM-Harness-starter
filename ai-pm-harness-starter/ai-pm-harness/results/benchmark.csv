@@ -1,0 +1,1 @@
+model,use_case,case_id,category,f1,rag_accuracy,unsupported_claim_rate,leakage_rate,validation_status,baseline_minutes,assisted_minutes,time_saved_pct,correction_count,notes
