@@ -1,7 +1,0 @@
-metric,value,status,evidence_id
-Overall RAG,Amber,At Risk,E-001
-Schedule,Amber,At Risk,E-002
-Scope,Green,On Track,E-101
-Quality,Red,Off Track,E-004
-Risk,Red,Off Track,E-001
-UAT readiness,Amber,At Risk,E-003
