@@ -6,7 +6,6 @@ Use only the synthetic data in this repository. Never paste real project data in
 ## 0. Setup
 
 ```bash
-cd ai-pm-harness
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 pytest -q          # everything must be green before you measure anything
